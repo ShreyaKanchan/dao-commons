@@ -1,5 +1,9 @@
 # DAO Commons
 
+> A governance prototype exploring proposals, voting power, decision periods, and on-chain execution.
+
+![DAO Commons](assets/logo.svg)
+
 Governance contract prototype with proposal creation, token-weighted voting, quorum, and execution delay.
 
 This demonstrates governance mechanics only; it uses a mock voting-power mapping and is not production-ready.
